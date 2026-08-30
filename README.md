@@ -17,6 +17,8 @@ It includes information about:
 - transaction dates and times
 - gross income and customer ratings
 
+Dataset source: [Supermarket Sales Dataset — Kaggle](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales)
+
 ## Tools
 
 - Python
